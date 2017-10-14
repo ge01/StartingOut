@@ -1,5 +1,5 @@
 // This program demonstrates the double data type.
-
+//
 public class program_0211
 {
     public static void main(String[] args)
