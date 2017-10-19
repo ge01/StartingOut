@@ -12,6 +12,5 @@ public class program_0212
                            " meters away.");
         System.out.println("The sun's mass is " + mass +
                            " kilograms.");
-
     }
 }
